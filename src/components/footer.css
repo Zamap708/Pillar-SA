@@ -1,0 +1,53 @@
+footer {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;    
+    height: 400px;
+    width: 100%;
+    background-color: hsl(0, 0%, 95%);
+}
+
+.m-10 {
+    margin: 0 0 10px 0;
+    height: 30px;
+    width: max-content;
+}
+
+.footer-contact-wrapper {
+    display: flex;  
+    flex-direction: column;
+    box-sizing: border-box;
+
+    height: 350px;
+    width: fit-content;
+
+    margin: 5%;
+    padding: 1.5% 5%;
+
+    font-family: Thasadith;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+
+.footer-margin {
+    margin-right: 5%;
+}
+
+.social-media-links {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-logo {
+    width: 60%;
+    height: 100%;
+    background-image: url(../assets/images/Pillar-logo-text.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
