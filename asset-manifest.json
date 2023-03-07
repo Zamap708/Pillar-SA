@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pillar-SA/static/css/main.700a86f6.css",
+    "main.js": "/pillar-SA/static/js/main.53e138ed.js",
+    "static/media/sky-building.jpg": "/pillar-SA/static/media/sky-building.78f59e6f404a65b50685.jpg",
+    "static/media/hero-image.jpg": "/pillar-SA/static/media/hero-image.987c01e4615b80d7282c.jpg",
+    "static/media/Prata-Regular.ttf": "/pillar-SA/static/media/Prata-Regular.2eeab737052a4ae3b2a9.ttf",
+    "static/media/Thasadith-Regular.ttf": "/pillar-SA/static/media/Thasadith-Regular.2346b87783c1065c46a3.ttf",
+    "static/media/Pillar-logo-text.png": "/pillar-SA/static/media/Pillar-logo-text.85509e0fd30b6cc3ca0a.png",
+    "index.html": "/pillar-SA/index.html",
+    "main.700a86f6.css.map": "/pillar-SA/static/css/main.700a86f6.css.map",
+    "main.53e138ed.js.map": "/pillar-SA/static/js/main.53e138ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.700a86f6.css",
+    "static/js/main.53e138ed.js"
+  ]
+}
