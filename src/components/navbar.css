@@ -27,6 +27,7 @@
     height: 100%;
 
     color: white;
+    overflow: hidden;
 }
 
 .nav-logo {
@@ -58,7 +59,7 @@ li > a {
     color: #ffffff;
     /* color: #000; */
 
-    font-family: Prata;
+    font-family: Thasadith;
     font-size: 20px;
     font-weight: 400;
     line-height: 100%;
