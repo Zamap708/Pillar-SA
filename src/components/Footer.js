@@ -44,34 +44,28 @@ export default function Footer() {
 
                 </div>
 
-                <div className="general-contact-info">
-                    <h2 className="footer-subtitle">Social Media</h2>
-                    <div className="social-media-links">
-                        <div className="link">
-                            <a href="" target={"_blank"}>
-                                <img src={facebook} alt="Facebook" className="social-media-icon"/>
-                            </a>
-                            <p className="footer-contact-text">Facebook</p>
-                        </div>
-     
-                        <div className="link">
-                            <a href="" target={"_blank"}>
-                                <img src={linkedin} alt="linkedin" className="social-media-icon"/>
-                            </a>
-                            <p className="footer-contact-text">Linkedin</p>
-                        </div>
+            </div>
 
-                        <div className="link">
-                            <a href="" target={"_blank"}>
-                                <img src={instagram} alt="instagram" className="social-media-icon"/>
-                            </a>
-                            <p className="footer-contact-text">Instagram</p>
-                        </div>
-                        
+            <div className="social-media-wrapper">
+                <div className="social-media-links">
+                    <div className="link">
+                        <a href="" target={"_blank"}>
+                            <img src={facebook} alt="Facebook" className="social-media-icon"/>
+                        </a>
+                    </div>
+     
+                    <div className="link">
+                        <a href="" target={"_blank"}>
+                            <img src={linkedin} alt="linkedin" className="social-media-icon"/>
+                        </a>
                     </div>
 
-                </div> 
-
+                    <div className="link">
+                        <a href="" target={"_blank"}>
+                            <img src={instagram} alt="instagram" className="social-media-icon"/>
+                        </a>
+                    </div>                        
+                </div>
             </div>
             
         </footer>

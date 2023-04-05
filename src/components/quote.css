@@ -2,29 +2,25 @@
 
 .quote-wrapper {
     position: relative;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
     width: 100%;
-    margin-top: 5%;
-    padding: 20px;
-    background-color: #aabcbf;
+    /* margin-top: 5%; */
+    height: 35px;
+    padding: 50px 0;
+    /* background-color: #aabcbf; */
     display: flex;
     justify-content: center;
     align-items: center;
-    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 10px 2.5px; */
-     /* background-image: url(../assets/images/Pillar-logo-plain.png);
-    background-size: auto 100%;
-    background-position: left;
-    background-repeat: no-repeat; */
 }
 
 .quote {
     position: relative;
-    width: 80%;
+    /* width: 80%; */
     /* height: 80%; */
     margin: auto;
     font-family: 'Cormorant Garamond', serif;
-    font-size: 25px;
-    line-height: 50px;
+    font-size: 30px;
+    /* line-height: 50px; */
     font-style: italic;
     font-weight: 500;
     text-align: center;

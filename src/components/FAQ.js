@@ -33,10 +33,6 @@ export default function FAQ() {
                 We do qualification, reference, ITC checks, criminal checks (require fingerprint).
                 We also offer psychometric, personality and competency tests at an additional cost.
             </p>
-
-            <p className="faq-question"></p>
-            <p className="faq-answer"></p>
-
         </div>
     )
 }
