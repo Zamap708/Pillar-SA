@@ -1,0 +1,69 @@
+.Bee {
+    position: relative;
+    width: 100%;
+    min-height: 600px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: 0px auto 200px !important;
+    z-index: 99;
+
+    background-image: url(../assets/images/bee-bg.jpg);
+    background-size: cover;
+    background-position: top;
+    /* color: white; */
+}
+
+.bee-content-wrapper {
+    box-sizing: border-box;
+
+    width: 470px;
+    height: 370px;
+
+    padding: 20px;
+    margin-left: 135px;
+    margin-top: 102px;
+
+    background-color: #aabcbf;
+}
+
+
+.bee-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.bee-title {
+    position: relative;
+    z-index: 10;
+    font-family: 'Montserrat';
+    text-align: left;
+    /* font-weight: 500 !important; */
+    font-size: 18px;
+    width: fit-content;
+    margin: 20px 0;
+}
+
+.bee-title::after {
+    content: "";
+    position: absolute;
+    bottom: -50%;
+    left: -10%;
+    width: 120%;
+    height: 1px;
+    background-color: black;
+}
+
+.bee-text {
+    position: relative;
+    z-index: 10;
+    width: 100%;
+    margin: 0;
+
+    font-size: 14px;
+}

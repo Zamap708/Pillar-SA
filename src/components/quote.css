@@ -5,21 +5,25 @@
     /* box-sizing: border-box; */
     width: 100%;
     /* margin-top: 5%; */
-    height: 35px;
-    padding: 50px 0;
-    /* background-color: #aabcbf; */
+    height: 20px;
+    padding: 30px 0;
+    background-color: #aabcbf;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: flex-start;
     align-items: center;
 }
 
 .quote {
+    /* background-color: #AABCBF; */
+    /* height: 100%; */
+    /* width: 100%; */
     position: relative;
     /* width: 80%; */
     /* height: 80%; */
     margin: auto;
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 30px;
+    font-family: 'Montserrat';
+    font-size: 18px;
     /* line-height: 50px; */
     font-style: italic;
     font-weight: 500;
