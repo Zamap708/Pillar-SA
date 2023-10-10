@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pillar-SA/static/css/main.0b79b27f.css",
-    "main.js": "/Pillar-SA/static/js/main.cde207de.js",
+    "main.css": "/Pillar-SA/static/css/main.8d954978.css",
+    "main.js": "/Pillar-SA/static/js/main.65d7a9da.js",
     "static/media/faq.jpg": "/Pillar-SA/static/media/faq.0e3e4be7713ba4883c77.jpg",
     "static/media/bee-bg.jpg": "/Pillar-SA/static/media/bee-bg.93f78bb47e2d5ad75eac.jpg",
     "static/media/office-bg.jpg": "/Pillar-SA/static/media/office-bg.cff23c0ff5265b41e861.jpg",
@@ -12,11 +12,11 @@
     "static/media/Pillar-logo-text.png": "/Pillar-SA/static/media/Pillar-logo-text.85509e0fd30b6cc3ca0a.png",
     "static/media/instagram.png": "/Pillar-SA/static/media/instagram.43d3f23fc6ca28025a90.png",
     "index.html": "/Pillar-SA/index.html",
-    "main.0b79b27f.css.map": "/Pillar-SA/static/css/main.0b79b27f.css.map",
-    "main.cde207de.js.map": "/Pillar-SA/static/js/main.cde207de.js.map"
+    "main.8d954978.css.map": "/Pillar-SA/static/css/main.8d954978.css.map",
+    "main.65d7a9da.js.map": "/Pillar-SA/static/js/main.65d7a9da.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b79b27f.css",
-    "static/js/main.cde207de.js"
+    "static/css/main.8d954978.css",
+    "static/js/main.65d7a9da.js"
   ]
 }
