@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/Pillar-SA/static/css/main.8c19dab6.css",
-    "main.js": "/Pillar-SA/static/js/main.6b599ae2.js",
+    "main.css": "/Pillar-SA/static/css/main.56aa8ebf.css",
+    "main.js": "/Pillar-SA/static/js/main.85e0bfdb.js",
     "static/media/Recruitment_3.jpg": "/Pillar-SA/static/media/Recruitment_3.63833ed8bd6a5bc87b53.jpg",
     "static/media/faq.jpg": "/Pillar-SA/static/media/faq.0e3e4be7713ba4883c77.jpg",
     "static/media/bee-bg.jpg": "/Pillar-SA/static/media/bee-bg.93f78bb47e2d5ad75eac.jpg",
     "static/media/office-bg.jpg": "/Pillar-SA/static/media/office-bg.cff23c0ff5265b41e861.jpg",
-    "static/media/engineering-bg.jpg": "/Pillar-SA/static/media/engineering-bg.93944209065e7bc4144a.jpg",
     "static/media/hero-image.jpg": "/Pillar-SA/static/media/hero-image.987c01e4615b80d7282c.jpg",
     "static/media/Prata-Regular.ttf": "/Pillar-SA/static/media/Prata-Regular.2eeab737052a4ae3b2a9.ttf",
     "static/media/Thasadith-Regular.ttf": "/Pillar-SA/static/media/Thasadith-Regular.2346b87783c1065c46a3.ttf",
@@ -18,11 +17,11 @@
     "static/media/Picture 4.jpg": "/Pillar-SA/static/media/Picture 4.5579285e829a0def2425.jpg",
     "static/media/instagram.png": "/Pillar-SA/static/media/instagram.43d3f23fc6ca28025a90.png",
     "index.html": "/Pillar-SA/index.html",
-    "main.8c19dab6.css.map": "/Pillar-SA/static/css/main.8c19dab6.css.map",
-    "main.6b599ae2.js.map": "/Pillar-SA/static/js/main.6b599ae2.js.map"
+    "main.56aa8ebf.css.map": "/Pillar-SA/static/css/main.56aa8ebf.css.map",
+    "main.85e0bfdb.js.map": "/Pillar-SA/static/js/main.85e0bfdb.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c19dab6.css",
-    "static/js/main.6b599ae2.js"
+    "static/css/main.56aa8ebf.css",
+    "static/js/main.85e0bfdb.js"
   ]
 }
