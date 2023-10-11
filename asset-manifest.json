@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pillar-SA/static/css/main.2341ce63.css",
-    "main.js": "/Pillar-SA/static/js/main.504aa2a7.js",
+    "main.css": "/Pillar-SA/static/css/main.8c19dab6.css",
+    "main.js": "/Pillar-SA/static/js/main.fc8df83c.js",
     "static/media/Recruitment_3.jpg": "/Pillar-SA/static/media/Recruitment_3.63833ed8bd6a5bc87b53.jpg",
     "static/media/faq.jpg": "/Pillar-SA/static/media/faq.0e3e4be7713ba4883c77.jpg",
     "static/media/bee-bg.jpg": "/Pillar-SA/static/media/bee-bg.93f78bb47e2d5ad75eac.jpg",
@@ -10,14 +10,19 @@
     "static/media/hero-image.jpg": "/Pillar-SA/static/media/hero-image.987c01e4615b80d7282c.jpg",
     "static/media/Prata-Regular.ttf": "/Pillar-SA/static/media/Prata-Regular.2eeab737052a4ae3b2a9.ttf",
     "static/media/Thasadith-Regular.ttf": "/Pillar-SA/static/media/Thasadith-Regular.2346b87783c1065c46a3.ttf",
+    "static/media/Picture 5.png": "/Pillar-SA/static/media/Picture 5.4a05e7f5de6c9770094c.png",
+    "static/media/Picture 3.png": "/Pillar-SA/static/media/Picture 3.ba9625183f1c0db2404b.png",
     "static/media/Pillar-logo-text.png": "/Pillar-SA/static/media/Pillar-logo-text.85509e0fd30b6cc3ca0a.png",
+    "static/media/Picture 6.png": "/Pillar-SA/static/media/Picture 6.e65d5635775006424e20.png",
+    "static/media/Picture 1.png": "/Pillar-SA/static/media/Picture 1.554e9f16d1f18ef91176.png",
+    "static/media/Picture 4.jpg": "/Pillar-SA/static/media/Picture 4.5579285e829a0def2425.jpg",
     "static/media/instagram.png": "/Pillar-SA/static/media/instagram.43d3f23fc6ca28025a90.png",
     "index.html": "/Pillar-SA/index.html",
-    "main.2341ce63.css.map": "/Pillar-SA/static/css/main.2341ce63.css.map",
-    "main.504aa2a7.js.map": "/Pillar-SA/static/js/main.504aa2a7.js.map"
+    "main.8c19dab6.css.map": "/Pillar-SA/static/css/main.8c19dab6.css.map",
+    "main.fc8df83c.js.map": "/Pillar-SA/static/js/main.fc8df83c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2341ce63.css",
-    "static/js/main.504aa2a7.js"
+    "static/css/main.8c19dab6.css",
+    "static/js/main.fc8df83c.js"
   ]
 }
