@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pillar-SA/static/css/main.fdbee3b7.css",
-    "main.js": "/Pillar-SA/static/js/main.998eaaf5.js",
+    "main.js": "/Pillar-SA/static/js/main.b3a6415c.js",
     "static/media/Engineer_3.jpg": "/Pillar-SA/static/media/Engineer_3.e480a0e27be62ff700ab.jpg",
     "static/media/Recruitment_3.jpg": "/Pillar-SA/static/media/Recruitment_3.63833ed8bd6a5bc87b53.jpg",
     "static/media/faq.jpg": "/Pillar-SA/static/media/faq.0e3e4be7713ba4883c77.jpg",
@@ -20,10 +20,10 @@
     "static/media/Picture 2.png": "/Pillar-SA/static/media/Picture 2.dacca2ead478d586d1e8.png",
     "index.html": "/Pillar-SA/index.html",
     "main.fdbee3b7.css.map": "/Pillar-SA/static/css/main.fdbee3b7.css.map",
-    "main.998eaaf5.js.map": "/Pillar-SA/static/js/main.998eaaf5.js.map"
+    "main.b3a6415c.js.map": "/Pillar-SA/static/js/main.b3a6415c.js.map"
   },
   "entrypoints": [
     "static/css/main.fdbee3b7.css",
-    "static/js/main.998eaaf5.js"
+    "static/js/main.b3a6415c.js"
   ]
 }
