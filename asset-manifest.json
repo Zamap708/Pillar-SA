@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pillar-SA/static/css/main.fdbee3b7.css",
-    "main.js": "/Pillar-SA/static/js/main.b3a6415c.js",
+    "main.css": "/Pillar-SA/static/css/main.f6152a79.css",
+    "main.js": "/Pillar-SA/static/js/main.bc0dcb00.js",
     "static/media/Engineer_3.jpg": "/Pillar-SA/static/media/Engineer_3.e480a0e27be62ff700ab.jpg",
     "static/media/Recruitment_3.jpg": "/Pillar-SA/static/media/Recruitment_3.63833ed8bd6a5bc87b53.jpg",
     "static/media/faq.jpg": "/Pillar-SA/static/media/faq.0e3e4be7713ba4883c77.jpg",
@@ -18,12 +18,14 @@
     "static/media/Picture 4.png": "/Pillar-SA/static/media/Picture 4.edb02eec51d9262a7393.png",
     "static/media/Picture 6.png": "/Pillar-SA/static/media/Picture 6.0256c75ac4ade583e6f7.png",
     "static/media/Picture 2.png": "/Pillar-SA/static/media/Picture 2.dacca2ead478d586d1e8.png",
+    "static/media/Picture 8.png": "/Pillar-SA/static/media/Picture 8.2c788435973d2644ba3e.png",
+    "static/media/Picture 7.png": "/Pillar-SA/static/media/Picture 7.456b2d74427d5a7495dd.png",
     "index.html": "/Pillar-SA/index.html",
-    "main.fdbee3b7.css.map": "/Pillar-SA/static/css/main.fdbee3b7.css.map",
-    "main.b3a6415c.js.map": "/Pillar-SA/static/js/main.b3a6415c.js.map"
+    "main.f6152a79.css.map": "/Pillar-SA/static/css/main.f6152a79.css.map",
+    "main.bc0dcb00.js.map": "/Pillar-SA/static/js/main.bc0dcb00.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdbee3b7.css",
-    "static/js/main.b3a6415c.js"
+    "static/css/main.f6152a79.css",
+    "static/js/main.bc0dcb00.js"
   ]
 }
