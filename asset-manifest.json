@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Pillar-SA/static/css/main.f6152a79.css",
-    "main.js": "/Pillar-SA/static/js/main.bc0dcb00.js",
+    "main.css": "/Pillar-SA/static/css/main.d67da9de.css",
+    "main.js": "/Pillar-SA/static/js/main.e52d0709.js",
     "static/media/Engineer_3.jpg": "/Pillar-SA/static/media/Engineer_3.e480a0e27be62ff700ab.jpg",
     "static/media/Recruitment_3.jpg": "/Pillar-SA/static/media/Recruitment_3.63833ed8bd6a5bc87b53.jpg",
+    "static/media/contact-image.jpg": "/Pillar-SA/static/media/contact-image.f5b5bf89270cbde7a498.jpg",
     "static/media/faq.jpg": "/Pillar-SA/static/media/faq.0e3e4be7713ba4883c77.jpg",
     "static/media/bee-bg.jpg": "/Pillar-SA/static/media/bee-bg.93f78bb47e2d5ad75eac.jpg",
     "static/media/engineering-bg.png": "/Pillar-SA/static/media/engineering-bg.87f280da4ba709623c1b.png",
@@ -11,7 +12,9 @@
     "static/media/hero-image.jpg": "/Pillar-SA/static/media/hero-image.987c01e4615b80d7282c.jpg",
     "static/media/Prata-Regular.ttf": "/Pillar-SA/static/media/Prata-Regular.2eeab737052a4ae3b2a9.ttf",
     "static/media/Thasadith-Regular.ttf": "/Pillar-SA/static/media/Thasadith-Regular.2346b87783c1065c46a3.ttf",
+    "static/media/Picture 9.png": "/Pillar-SA/static/media/Picture 9.bd3693ec5a790073abc8.png",
     "static/media/Picture 5.png": "/Pillar-SA/static/media/Picture 5.4c28e0cd80138aedda0e.png",
+    "static/media/signature.png": "/Pillar-SA/static/media/signature.0f081364e50dac5f8727.png",
     "static/media/Pillar-logo-text.png": "/Pillar-SA/static/media/Pillar-logo-text.85509e0fd30b6cc3ca0a.png",
     "static/media/Picture 3.png": "/Pillar-SA/static/media/Picture 3.2db1d2d0d3e54b9ea3ca.png",
     "static/media/Picture 1.png": "/Pillar-SA/static/media/Picture 1.a24f599da2671373a594.png",
@@ -21,11 +24,11 @@
     "static/media/Picture 8.png": "/Pillar-SA/static/media/Picture 8.2c788435973d2644ba3e.png",
     "static/media/Picture 7.png": "/Pillar-SA/static/media/Picture 7.456b2d74427d5a7495dd.png",
     "index.html": "/Pillar-SA/index.html",
-    "main.f6152a79.css.map": "/Pillar-SA/static/css/main.f6152a79.css.map",
-    "main.bc0dcb00.js.map": "/Pillar-SA/static/js/main.bc0dcb00.js.map"
+    "main.d67da9de.css.map": "/Pillar-SA/static/css/main.d67da9de.css.map",
+    "main.e52d0709.js.map": "/Pillar-SA/static/js/main.e52d0709.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6152a79.css",
-    "static/js/main.bc0dcb00.js"
+    "static/css/main.d67da9de.css",
+    "static/js/main.e52d0709.js"
   ]
 }
